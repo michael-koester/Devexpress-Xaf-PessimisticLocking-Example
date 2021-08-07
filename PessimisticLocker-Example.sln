@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PessimisticLocker_Example.Module", "PessimisticLocker_Example.Module\PessimisticLocker_Example.Module.csproj", "{4E6D8317-DDC5-400D-8D95-96A47720E210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PessimisticLocker_Example.Module.Win", "PessimisticLocker_Example.Module.Win\PessimisticLocker_Example.Module.Win.csproj", "{35A9F67A-573D-4E39-AF5E-9AE71200B77B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PessimisticLocker_Example.Win", "PessimisticLocker_Example.Win\PessimisticLocker_Example.Win.csproj", "{54034949-E998-40E7-8BF8-37C9987F33B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PessimisticLocker.Module", "PessimisticLocker.Module\PessimisticLocker.Module.csproj", "{55D6230B-ABB7-4914-B792-751D924412E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E6D8317-DDC5-400D-8D95-96A47720E210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6D8317-DDC5-400D-8D95-96A47720E210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6D8317-DDC5-400D-8D95-96A47720E210}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{4E6D8317-DDC5-400D-8D95-96A47720E210}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{4E6D8317-DDC5-400D-8D95-96A47720E210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6D8317-DDC5-400D-8D95-96A47720E210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35A9F67A-573D-4E39-AF5E-9AE71200B77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A9F67A-573D-4E39-AF5E-9AE71200B77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A9F67A-573D-4E39-AF5E-9AE71200B77B}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{35A9F67A-573D-4E39-AF5E-9AE71200B77B}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{35A9F67A-573D-4E39-AF5E-9AE71200B77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A9F67A-573D-4E39-AF5E-9AE71200B77B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54034949-E998-40E7-8BF8-37C9987F33B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54034949-E998-40E7-8BF8-37C9987F33B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54034949-E998-40E7-8BF8-37C9987F33B7}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{54034949-E998-40E7-8BF8-37C9987F33B7}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{54034949-E998-40E7-8BF8-37C9987F33B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54034949-E998-40E7-8BF8-37C9987F33B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D6230B-ABB7-4914-B792-751D924412E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D6230B-ABB7-4914-B792-751D924412E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D6230B-ABB7-4914-B792-751D924412E4}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{55D6230B-ABB7-4914-B792-751D924412E4}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{55D6230B-ABB7-4914-B792-751D924412E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D6230B-ABB7-4914-B792-751D924412E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {683B3DE9-1271-4B77-9E98-EFAF2FF19925}
+	EndGlobalSection
+EndGlobal
